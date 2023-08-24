@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /Account
+Sitemap: http://nvtcomputer-001-site1.itempurl.com/sitemap.xml

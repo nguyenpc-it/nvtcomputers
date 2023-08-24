@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="Model11-Web.config Connection String" description="Model11 Connection String used in web.config by the application to access the database." defaultValue="Data Source=SQL5106.site4now.net;Initial Catalog=db_a9d4d7_nvtcomputer;User Id=db_a9d4d7_nvtcomputer_admin;Password=1Convitxoera@" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Download\\NVTComputer\\DoAn_LapTrinhWeb\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Model11']/@connectionString" />
+  </parameter>
+</parameters>
